@@ -27,6 +27,7 @@ if marks > 100 or marks < 0:
     sys.exit()
 print(f"Result for {name}")
 grade, message = grade(marks)
+print(f"marks : {marks}/100")
 print(f"Grade: {grade}")
 print(message)
         
