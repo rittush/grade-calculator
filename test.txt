@@ -1,34 +1,38 @@
 %runfile C:/Users/Rittush/Downloads/grade_calculator.py --wdir
-Enter Your name rittush
-enter your marks [0-100] 98
-Result for rittush
+Enter Your name abhinab
+enter your marks [0-100] 96
+Result for abhinab
+marks : 96/100
 Grade: A+
 Outstanding!
-
 %runfile C:/Users/Rittush/Downloads/grade_calculator.py --wdir
-Enter Your name rittush
-enter your marks [0-100] 86
-Result for rittush
+Enter Your name Rittush
+enter your marks [0-100] 89
+Result for Rittush
+marks : 89/100
 Grade: A
 Excellent!
 
 %runfile C:/Users/Rittush/Downloads/grade_calculator.py --wdir
-Enter Your name rittush
-enter your marks [0-100] 70
-Result for rittush
+Enter Your name Sumit
+enter your marks [0-100] 78
+Result for Sumit
+marks : 78/100
 Grade: B+
 Good!
 
 %runfile C:/Users/Rittush/Downloads/grade_calculator.py --wdir
-Enter Your name rittush
-enter your marks [0-100] 58
-Result for rittush
+Enter Your name isha
+enter your marks [0-100] 65
+Result for isha
+marks : 65/100
 Grade: B
 Satisfactory!
 
 %runfile C:/Users/Rittush/Downloads/grade_calculator.py --wdir
-Enter Your name rittush
+Enter Your name tanmay
 enter your marks [0-100] 45
-Result for rittush
+Result for tanmay
+marks : 45/100
 Grade: C
 You failed in Examination
